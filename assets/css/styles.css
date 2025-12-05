@@ -5,7 +5,7 @@ h1, h2, h3, .heading {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600; /* or 700 for hero */
   letter-spacing: -0.5px;
-  font-color: #000000;
+  color: #000000;
 }
 
 /*Body (Inter)*/
